@@ -1,0 +1,43 @@
+{
+    "questions": [
+        {
+            "name": "Quantas Libertadores Flamengo possuí?",
+            "rightAnswerIndex": 1,
+            "options": [
+                "1",
+                "2",
+                "0",
+                "3"
+            ]
+        },
+        {
+            "name": "Quantos brasileiros Flamengo possuí?",
+            "rightAnswerIndex": 0,
+            "options": [
+                "7",
+                "3",
+                "10",
+                "6"
+            ]
+        },
+        {
+            "name": "Qual foi o último artilheiro da Libertadores?",
+            "rightAnswerIndex": 0,
+            "options": [
+                "Gabriel",
+                "Bruno Henrique",
+                "Vitinho"
+            ]
+        },
+        {
+            "name": "Quantas Copas do Brasil Flamengo possuí?",
+            "rightAnswerIndex": 3,
+            "options": [
+                "1",
+                "2",
+                "0",
+                "3"
+            ]
+        }
+    ]
+}
