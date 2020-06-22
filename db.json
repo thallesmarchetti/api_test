@@ -1,4 +1,10 @@
 {
+  "thallesApp" : [
+    {
+      "id": ["Desktop", "Notebook"],
+      "problem": ["Sistemas", "Programas", "Office", "Wifi"],
+    }
+  ],
   "questions": [
     {
       "name": "Quantas Libertadores Flamengo possuí?",
